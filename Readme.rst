@@ -1,38 +1,32 @@
-Hitchhiker's Guide to Python
+O Guia do Aventureiro para Python
 ============================
 
-**Python Best Practices Guidebook**
+**Guia de Boas Práticas da Python**
 
-→ Read the free guide at: `docs.python-guide.org <https://docs.python-guide.org>`_
+→ Leia o guia gratuito em: `docs.python-guide.org <https://docs.python-guide.org>`_
 
 .. image:: https://farm1.staticflickr.com/628/33173824932_58add34581_k_d.jpg
 
 -----------
 
-**Work in progress. If you'd like to help, please do. There's a lot of work to
-be done.**
+**Trabalho em curso. Se gostarias de ajudar, por favor faço-o. Existe muito trabalho a ser feito.**
 
-This guide is currently under heavy development. This opinionated guide
-exists to provide both novice and expert Python developers a best practice
-handbook to the installation, configuration, and usage of Python on a daily
-basis.
+Este guia está atualmente sob intenso desenvolvimento. Este guia opinioso existe para fornecer à ambos programadores principiantes e especialistas da Python um manual de boas práticas para instalação, configuração, e uso da Python diariamente.
 
 
-Topics include:
+Os tópicos incluem:
 
-- Platform and version-specific installations
+- Plataforma e instalações de versão específica
 - Py2app, Py2exe, bbfreeze, pyInstaller
 - Pip
 - Numpy, scipy, statpy, pyplot, matplotlib
 - Virtualenv
 - Fabric
-- Exhaustive module recommendations, grouped by topic/purpose
-- Which libraries to use for what
-- Server configurations & tools for various web frameworks
-- Documentation: writing it
-- Testing: Jenkins & tox guides
-- How to easily interface ``hg`` from ``git``
+- Recomendações de módulo exaustiva, agrupada por tópico ou propósito
+- Quais bibliotecas usar para quê
+- Configurações de servidor & ferramentas para várias abstrações de Web
+- Documentação: escrevendo-a
+- Testes: guias de Jenkins e tox
+- Como criar facilmente uma interface de ``hg`` a partir da ``git``
 
-If you aren't fond of reading reStructuredText, there is an
-almost up-to-date `HTML version at docs.python-guide.org
-<https://docs.python-guide.org>`_.
+Se não estiveres apaixonado pela leitura de reStructuredText, existe uma `versão de HTML na docs.python-guide.org <https://docs.python-guide.org>`_ quase atualizada.
