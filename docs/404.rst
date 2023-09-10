@@ -1,19 +1,19 @@
 :orphan:
 
 #################
-404 — Not Found
+404 — Não Encontrada
 #################
 
-**Sorry, but we couldn't find the page you requested.**
+**Lamentamos, mas não pudemos encontrar a página requisitaste.**
 
-It looks like this was the result of either:
+Isto pode ser resultado de:
 
-- a mistyped address
-- an out-of-date link
+- um endereço digitado de maneira incorreta.
+- ou duma ligação desatualizada
 
-`Click here to go back to the homepage. <https://docs.python-guide.org/>`_
+`Clique nesta ligação para voltares à página principal. <https://docs.python-guide.org/>`_
 
-Or, try `searching <https://docs.python-guide.org/search/>`_.
+Ou, tente `pesquisar <https://docs.python-guide.org/search/>`_.
 
 .. raw:: html
 
