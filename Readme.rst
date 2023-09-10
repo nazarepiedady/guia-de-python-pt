@@ -1,5 +1,5 @@
 O Guia do Aventureiro para Python
-============================
+=================================
 
 **Guia de Boas Práticas da Python**
 
