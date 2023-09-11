@@ -1,14 +1,14 @@
-Getting Started with Python
----------------------------
+Introdução a Python
+-------------------
 
-New to Python? Let's properly setup up your Python environment:
+És nova na Python? Vamos configurar apropriadamente o teu ambiente da Python:
 
 .. toctree::
    :maxdepth: 2
 
    starting/which-python
 
-- Properly Install Python on your system:
+- Instalar apropriadamente a Python no teu sistema:
 
  .. toctree::
     :maxdepth: 1
@@ -22,7 +22,7 @@ New to Python? Let's properly setup up your Python environment:
     starting/install/linux
 
 
-- Using Virtualenvs with Pipenv:
+- Usar ambientes virtuais com a Pipenv:
 
  .. toctree::
     :maxdepth: 2
@@ -30,11 +30,10 @@ New to Python? Let's properly setup up your Python environment:
     dev/virtualenvs
 
 
-Python Development Environments
--------------------------------
+Ambientes de Desenvolvimento da Python
+--------------------------------------
 
-This part of the guide focuses on the Python development environment,
-and the best-practice tools that are available for writing Python code.
+Esta parte do guia foca-se no ambiente de desenvolvimento da Python, e as ferramentas de boas práticas que estão disponíveis para escrita de código de Python.
 
 .. toctree::
    :maxdepth: 2
@@ -46,10 +45,10 @@ and the best-practice tools that are available for writing Python code.
 
 
 
-Writing Great Python Code
--------------------------
+Escrita de Código de Python Excelente
+-------------------------------------
 
-This part of the guide focuses on the best-practices for writing Python code.
+Esta parte do guia foca-se nas boas práticas para escrita de código de Python.
 
 .. toctree::
    :maxdepth: 2
@@ -65,11 +64,10 @@ This part of the guide focuses on the best-practices for writing Python code.
 
 
 
-Scenario Guide for Python Applications
---------------------------------------
+Guia de Cenário para Aplicações de Python
+-----------------------------------------
 
-This part of the guide focuses on tool and module advice based on
-different scenarios.
+Esta parte do guia foca-se na ferramenta e conselho de módulo baseado nos diferentes cenários.
 
 .. toctree::
    :maxdepth: 2
@@ -94,10 +92,10 @@ different scenarios.
    scenarios/clibs
 
 
-Shipping Great Python Code
---------------------------
+Entrega de Código de Python Excelente
+--------------------------------------
 
-This part of the guide focuses on sharing and deploying your Python code.
+Esta parta do guia foca-se na partilha e implementação em produção do teu código de Python.
 
 .. toctree::
    :maxdepth: 2
@@ -107,11 +105,10 @@ This part of the guide focuses on sharing and deploying your Python code.
    shipping/freezing
 
 
-Additional Notes
+Notas Adicionais
 ----------------
 
-This part of the guide, which is mostly prose, begins with some
-background information about Python, and then focuses on next steps.
+Esta parte do guia, que é na sua maioria prosa, começa com alguma informação de fundo sobre a Python, e depois foca-se nos próximos passos.
 
 .. toctree::
    :maxdepth: 2
@@ -123,14 +120,12 @@ background information about Python, and then focuses on next steps.
    intro/news
 
 .. note::
-   Notes defined within all diatonic and chromatic musical scales have been
-   intentionally excluded from this list of additional notes. Additionally,
-   this note.
+   Notas definidas dentro de todas escalas musicais diatónicas e cromáticas foram intencionalmente excluídas desta lista de notas adicionais. Adicionalmente, esta nota.
 
 
 --------------------------------------
 
-Contribution notes and legal information (for those interested).
+Notas de contribuição e informação legal (para aqueles interessados).
 
 .. toctree::
    :maxdepth: 2
